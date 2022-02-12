@@ -34,7 +34,7 @@
                     </div>
                     <header class="sign-title">ACCESO</header>
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Correo o Telefono"/>
+                        <input type="text"  class="form-control" placeholder="Correo o Telefono"/>
                     </div>
                     <div class="form-group">
                         <input type="password" class="form-control" placeholder="Contraseña"/>
