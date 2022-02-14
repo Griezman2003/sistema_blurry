@@ -15,7 +15,7 @@ public function set_names (){
     return $this->dbh->query("SET NAMES 'utf8'");
     }
 public function ruta(){
-    return "http://localhost:8888/Sistema_TI/";
+    return "http://localhost:8888/Sistema_TI/view/home";
 }   
 }
 ?>
