@@ -58,7 +58,7 @@
 
                                 case "2";
                                     ?>
-                                        <div class="alert alert-warning alert-icon alert-close alert-dismissible fade in" role="alert">
+                                        <div class="alert alert-success alert-fill alert-close alert-dismissible fade in" role="aler
                                             <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                                                 <span aria-hidden="true">×</span>
                                             </button>
