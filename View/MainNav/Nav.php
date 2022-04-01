@@ -8,16 +8,16 @@
                     </li>
 
                     <li class="blue-dirty">
-                        <a href="..\Nuevo Ticket\">
+                        <a href="..\Menu bebida\">
                             <span class="glyphicon glyphicon-th"></span>
-                            <span class="lbl">Nuevo Ticket</span>
+                            <span class="lbl">Menu bebida</span>
                         </a>
                     </li>
 
                     <li class="blue-dirty">
-                        <a href="..\Consultar Ticket\">
+                        <a href="..\Menu Comida\">
                             <span class="glyphicon glyphicon-th"></span>
-                            <span class="lbl">Consultar Ticket</span>
+                            <span class="lbl">Menu Comida</span>
                         </a>
                     </li>
                 </ul>

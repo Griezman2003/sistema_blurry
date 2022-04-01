@@ -1,11 +1,11 @@
 <?php
-  require_once("../../CONFIG/Conexion.php"); 
+  require_once("../../Config/conexion.php"); 
   if(isset($_SESSION["usu_id"])){ 
 ?>
 <!DOCTYPE html>
 <html>
 <?php require_once("../MainHead/head.php");?>
-	<title>SISTEMA: Nuevo Ticket</title>
+	<title>SISTEMA: Menu Comida</title>
 </head>
 <body class="with-side-menu">
 <?php require_once("../MainHeader/header.php");?>
@@ -18,10 +18,10 @@
 				<div class="tbl">
 					<div class="tbl-row">
 						<div class="tbl-cell">
-							<h3>Nuevo Ticket</h3>
+							<h3>Menu Comida</h3>
 							<ol class="breadcrumb breadcrumb-simple">
 								<li><a href="#">Home</a></li>
-								<li><a href="#">Nuevo Ticket</a></li>
+								<li><a href="#">Menu comida</a></li>
 								
 							</ol>
 						</div>
@@ -30,12 +30,12 @@
 			</header>
 			<div class="box-typical box-typical-padding">
 				<p>
-				   Desde esta ventana podrá generar nuevos tickets	
+				   Desde esta ventana podrás ver todo el menu de comida
 			    </p>
 
 			<div class="box-typical box-typical-padding">
 				<p>
-					Desde esta ventana podrá generar nuevos ticket de Mesa de Ayuda
+					Desde esta ventana podrá 
 				</p>
 
 				<h5 class="m-t-lg with-border">Ingrese Información</h5>
