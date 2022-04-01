@@ -35,10 +35,10 @@
 
 			<div class="box-typical box-typical-padding">
 				<p>
-					Desde esta ventana podrá 
+					
 				</p>
 
-				<h5 class="m-t-lg with-border">Ingrese Información</h5>
+				<h5 class="m-t-lg with-border"></h5>
 				
 				
 				<div class="row">
@@ -50,8 +50,8 @@
 						<fieldset class="form-group">
 							<label class="form-label semibold" for="exampleInput">Categoria</label>
 							<select id="exampleSelect" class="form-control">
-								<option>software</option>
-								<option>hardware</option>
+								<option>carta</option>
+								<option>especialidad de la casa</option>
 								<option>otros</option>
 							</select>
 							
