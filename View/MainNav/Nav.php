@@ -13,6 +13,12 @@
                             <span class="lbl">Menu bebida</span>
                         </a>
                     </li>
+                    <li class="blue-dirty">
+                        <a href="..\Menu tacos\">
+                            <span class="glyphicon glyphicon-th"></span>
+                            <span class="lbl">Menu tacos</span>
+                        </a>
+                    </li>
 
                     <li class="blue-dirty">
                         <a href="..\Menu Comida\">

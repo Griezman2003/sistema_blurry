@@ -38,9 +38,9 @@
             <div class="container-fluid">
                 <form class="sign-box" action="" method="post" id="login_form">
                     <div class="sign-avatar">
-                        <img src="Public/img/avatar-sign.png" alt="">
+                        <img src="Public/img/comida.png" alt="">
                     </div>
-                    <header class="sign-title">ACCESO</header>
+                    <header class="sign-title">Welcome </header>
                     <?php
                         if (isset($_GET["m"])){
                             switch($_GET["m"]){
@@ -83,7 +83,7 @@
                         </div>
                         </div>
                         <input type="hidden" name="enviar" class= "form-control" value="si">
-                    <button type="submit" class="btn btn-rounded">Entrar</button>
+                    <button type="submit" class="btn btn-rounded">Iniciar sesion</button>
                    
                     <!--<button type="button" class="close">
                         <span aria-hidden="true">&times;</span>

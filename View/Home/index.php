@@ -13,7 +13,7 @@
 	<?php require_once("../MainNav/Nav.php");?>
     <div class="page-content">
 		<div class="container-fluid">
-			INICIO
+      inicio
 		</div><!--.container-fluid-->
 	</div><!--.page-content-->
      <?php require_once("../MainJs/Js.php");?>

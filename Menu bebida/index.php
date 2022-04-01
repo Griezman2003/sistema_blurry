@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <?php require_once("../MainHead/head.php");?>
-	<title>SISTEMA: Menu Comida</title>
+	<title>SISTEMA: Menu bebida</title>
 </head>
 <body class="with-side-menu">
 <?php require_once("../MainHeader/header.php");?>
@@ -18,10 +18,10 @@
 				<div class="tbl">
 					<div class="tbl-row">
 						<div class="tbl-cell">
-							<h3>Menu Comida</h3>
+							<h3>Menubebida</h3>
 							<ol class="breadcrumb breadcrumb-simple">
 								<li><a href="#">Home</a></li>
-								<li><a href="#">Menu comida</a></li>
+								<li><a href="#">Menubebida</a></li>
 								
 							</ol>
 						</div>
@@ -76,7 +76,7 @@
 		</div><!--.container-fluid-->
 	</div><!--.page-content-->
 	<?php require_once("../MainJs/Js.php");?>
-	<script type="text/javascript" src="Menu Comida.js"></script>
+	<script type="text/javascript" src="Menubebida.js"></script>
 </body>
 </html>
 <?php
