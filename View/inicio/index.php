@@ -5,13 +5,13 @@
 <!DOCTYPE html>
 <html>
 <?php require_once("../MainHead/head.php");?>
-	<title>SISTEMA:MENU BEBIDA</title>
+	<title>SISTEMA:INICIO</title>
 </head>
 <body class="with-side-menu">
 <?php require_once("../MainHeader/header.php");?>
 	<div class="mobile-menu-left-overlay"></div>
 	<?php require_once("../MainNav/Nav.php");?>
-    <?php require_once("../menu bebida/index.php");
+    <?php require_once("../inicio/index.php");
 ?>
 <body class="with-side-menu">
 	<div class="page-content">
@@ -42,8 +42,8 @@
                             <img src="../../Public/img/arbol.png"  alt="50" height="50">
 								<div class="gallery-hover-layout">
 									<div class="gallery-hover-layout-in">
-										<center><H1 class="gallery-item-title">MENU BEBIDA </H1></center>
-										<center><p><b>Tenemos un menu apartados a las bebidas acompaña tu deliciosa cena con una bebida que desees<b></p></center>
+										<center><H1 class="gallery-item-title">INICIO </H1></center>
+										<center><p><b>BIENVENIDO<b></p></center>
 										<div class="btn-group">
 										
 											
@@ -56,10 +56,8 @@
 
 						<div class="gallery-col">
 							<article class="gallery-item">
-								<img src="../../Public/img/refrescos.png" alt="150" height="150"> <align="left">
-								<img src="../../Public/img/vinos.png" alt="150" height="150"> <align="left">
-								<img src="../../Public/img/agua.png" alt="150" height="150"> <align="left">
-								<img src="../../Public/img/jugos.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/ensalada.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/kfc-5.png" alt="150" height="150"> <align="left">
 								<div class="gallery-hover-layout">
 									<div class="gallery-hover-layout-in">
 										<p class="gallery-item-title"></p>
@@ -68,10 +66,8 @@
 										<div class="gallery-col">
 
 							         <article class="gallery-item">
-								<img src="../../Public/img/cerveza.png" alt="150" height="150"> <align="left">
-								<img src="../../Public/img/.png" alt="150" height="150"> <align="left">
-								<img src="../../Public/img/.png" alt="150" height="150"> <align="left">
-								<img src="../../Public/img/.png" alt="150" height="140"> <align="left">
+								<img src="../../Public/img/milanesa.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/rollo.png" alt="150" height="150"> <align="left">
 								<div class="gallery-hover-layout">
 									<div class="gallery-hover-layout-in">
 									<p class="gallery-item-title"></p>

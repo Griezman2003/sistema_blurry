@@ -66,6 +66,7 @@
 					<div class="col-lg-12">
 						<fieldset class="form-group">
 							<label class="form-label" for="exampleInputPassword1">Descripcion</label>
+                               <center> <button type="submit" class="btn btn-rounded">enviar</button> </center>
 							<div class="summernote-theme-10" >
 								<textarea class="summernote" id="tick_descrip" name="name"></textarea>
 							</div>

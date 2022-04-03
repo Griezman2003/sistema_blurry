@@ -41,6 +41,7 @@
                         <img src="Public/img/comida.png" alt="">
                     </div>
                     <header class="sign-title">Welcome </header>
+                    
                     <?php
                         if (isset($_GET["m"])){
                             switch($_GET["m"]){

@@ -1,7 +1,7 @@
 <nav class="side-menu">
                 <ul class="side-menu-list">
                     <li class="blue-dirty">
-                        <a href="..\Home\">
+                        <a href="..\inicio\">
                             <span class="glyphicon glyphicon-th"></span>
                             <span class="lbl">Inicio</span>
                         </a>
@@ -17,6 +17,11 @@
                         <a href="..\Formas de Pago\">
                             <span class="glyphicon glyphicon-th"></span>
                             <span class="lbl">Formas de Pago</span>
+                        </a>
+                        <li class="blue-dirty">
+                        <a href="..\Postres\">
+                            <span class="glyphicon glyphicon-th"></span>
+                            <span class="lbl">Postres</span>
                         </a>
                     </li>
 
