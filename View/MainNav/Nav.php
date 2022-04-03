@@ -14,9 +14,9 @@
                         </a>
                     </li>
                     <li class="blue-dirty">
-                        <a href="..\Menu tacos\">
+                        <a href="..\Formas de Pago\">
                             <span class="glyphicon glyphicon-th"></span>
-                            <span class="lbl">Menu tacos</span>
+                            <span class="lbl">Formas de Pago</span>
                         </a>
                     </li>
 
