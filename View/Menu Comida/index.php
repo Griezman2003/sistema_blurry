@@ -75,7 +75,7 @@
 								<div class="gallery-hover-layout">
 									<div class="gallery-hover-layout-in">
 									<p class="gallery-item-title"></p>
-									<center><p>please look at the prices and products of the images feel at home</p></center>
+									<center><p>apartado cerrado hasta nuevo aviso</p></center>
 									<div class="btn-group">						
 								
 			

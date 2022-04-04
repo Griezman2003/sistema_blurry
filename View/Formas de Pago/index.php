@@ -48,10 +48,10 @@
 				<div class="row">
 					<div class="col-lg-6">
 						<fieldset class="form-group">
-							<label class="form-label semibold" for="exampleInput">Categoria</label>
+							<label class="form-label semibold" for="exampleInput">ELIJA SU METODO DE PAGO</label>
 							<select id="exampleSelect" class="form-control">
-								<option>refrescos</option>
-								<option>vino </option>
+								<option>Tarjeta de credito</option>
+								<option>Tarjeta coppel</option>
 								<option>seleccion aleatoria</option>
 							</select>
 							

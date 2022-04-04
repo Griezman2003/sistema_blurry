@@ -18,6 +18,8 @@
                             <span class="glyphicon glyphicon-th"></span>
                             <span class="lbl">Formas de Pago</span>
                         </a>
+                        </li>
+                        
                         <li class="blue-dirty">
                         <a href="..\Postres\">
                             <span class="glyphicon glyphicon-th"></span>

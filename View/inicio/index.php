@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <?php require_once("../MainHead/head.php");?>
-	<title>SISTEMA:INICIO</title>
+	<title>SISTEMA:MENU COMIDA</title>
 </head>
 <body class="with-side-menu">
 <?php require_once("../MainHeader/header.php");?>
@@ -43,7 +43,7 @@
 								<div class="gallery-hover-layout">
 									<div class="gallery-hover-layout-in">
 										<center><H1 class="gallery-item-title">INICIO </H1></center>
-										<center><p><b>BIENVENIDO<b></p></center>
+										<center><p><b>Este primer apartado lo ultimo en calidad de comida<b></p></center>
 										<div class="btn-group">
 										
 											
@@ -57,7 +57,9 @@
 						<div class="gallery-col">
 							<article class="gallery-item">
 								<img src="../../Public/img/ensalada.png" alt="150" height="150"> <align="left">
-								<img src="../../Public/img/kfc-5.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/milanesa de pollo.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/milanesa.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/agua chile.png" alt="150" height="150"> <align="left">
 								<div class="gallery-hover-layout">
 									<div class="gallery-hover-layout-in">
 										<p class="gallery-item-title"></p>
@@ -66,12 +68,14 @@
 										<div class="gallery-col">
 
 							         <article class="gallery-item">
-								<img src="../../Public/img/milanesa.png" alt="150" height="150"> <align="left">
-								<img src="../../Public/img/rollo.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/espagueti.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/pollo.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/pollo verde.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/ensalada camaron.png" alt="150" height="140"> <align="left">
 								<div class="gallery-hover-layout">
 									<div class="gallery-hover-layout-in">
 									<p class="gallery-item-title"></p>
-									<center><p>please look at the prices and products of the images feel at home</p></center>
+									<center><p>apartado cerrado hasta nuevo aviso</p></center>
 									<div class="btn-group">						
 								
 			
