@@ -44,6 +44,7 @@
 									<div class="gallery-hover-layout-in">
 										<center><H1 class="gallery-item-title">MENU COMIDA </H1></center>
 										<center><p><b>Este primer apartado lo ultimo en calidad de comida<b></p></center>
+										<center><p><b>Puede visualizar estas opciones disponibles aproveche la oportunidad<b></p></center>
 										<div class="btn-group">
 										
 											
@@ -63,7 +64,7 @@
 								<div class="gallery-hover-layout">
 									<div class="gallery-hover-layout-in">
 										<p class="gallery-item-title"></p>
-										<center><p>please look at the prices and products of the images feel at home</p></center>
+										<center><p></p></center>
 										<div class="btn-group">	
 										<div class="gallery-col">
 
@@ -75,8 +76,12 @@
 								<div class="gallery-hover-layout">
 									<div class="gallery-hover-layout-in">
 									<p class="gallery-item-title"></p>
-									<center><p>apartado cerrado hasta nuevo aviso</p></center>
-									<div class="btn-group">						
+									<center><p></p></center>
+									<div class="btn-group">		
+									<img src="../../Public/img/cabiar.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/empanisado.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/tacos.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/chilaquiles.png" alt="180" height="130"> <align="left">				
 								
 			
 		<script src="Public/js/lib/jquery/jquery.min.js"></script>

@@ -44,7 +44,9 @@
 									<div class="gallery-hover-layout-in">
 										<center><H1 class="gallery-item-title">MENU BEBIDA </H1></center>
 										<center><p><b>Tenemos un menu apartados a las bebidas acompaña tu deliciosa cena con una bebida que desees<b></p></center>
+										<center><p><b>lo mejor en locoreria y vinos de alta calidad<b></p></center>
 										<div class="btn-group">
+
 										
 											
 										</div>
@@ -63,21 +65,24 @@
 								<div class="gallery-hover-layout">
 									<div class="gallery-hover-layout-in">
 										<p class="gallery-item-title"></p>
-										<center><p>please look at the prices and products of the images feel at home</p></center>
+										<center><p></p></center>
 										<div class="btn-group">	
 										<div class="gallery-col">
 
 							         <article class="gallery-item">
 								<img src="../../Public/img/cerveza.png" alt="150" height="150"> <align="left">
-								<img src="../../Public/img/.png" alt="150" height="150"> <align="left">
-								<img src="../../Public/img/.png" alt="150" height="150"> <align="left">
-								<img src="../../Public/img/.png" alt="150" height="140"> <align="left">
+								<img src="../../Public/img/limonada.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/mezcal.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/trago.png" alt="150" height="150"> <align="left">
 								<div class="gallery-hover-layout">
 									<div class="gallery-hover-layout-in">
 									<p class="gallery-item-title"></p>
-									<center><p>please look at the prices and products of the images feel at home</p></center>
+									<center><p></p></center>
 									<div class="btn-group">						
-								
+									<img src="../../Public/img/agua-fresa.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/fanta.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/mezcal.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/trago.png" alt="150" height="150"> <align="left">
 			
 		<script src="Public/js/lib/jquery/jquery.min.js"></script>
 	<script src="Public/js/lib/tether/tether.min.js"></script>

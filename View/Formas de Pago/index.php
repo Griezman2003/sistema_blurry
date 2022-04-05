@@ -21,7 +21,7 @@
 							<h3>FORMAS DE PAGO</h3>
 							<ol class="breadcrumb breadcrumb-simple">
 								<li><a href="#">Home</a></li>
-								<li><a href="#">agregar empleados</a></li>
+								<li><a href="#">agregar </a></li>
 								
 							</ol>
 						</div>
@@ -46,13 +46,13 @@
 				<div class="col-lg-12">
 						<fieldset class="form-group">
 							<label class="form-label" for="exampleInputEmail1"> nombre</label>
-							<input type="text" class="form-control" id="nombre" placeholder="ingresa el (los) nombre(s) del empleado" >
+							<input type="text" class="form-control" id="nombre" placeholder="ingresa el (los) nombre(s)" >
 						</fieldset>
 					</div>
 					<div class="col-lg-12">
 						<fieldset class="form-group">
 							<label class="form-label" for="exampleInputEmail1">apellido</label>
-							<input type="text" class="form-control" id="apellido" placeholder="ingresa los apellido(s) del empleado" >
+							<input type="text" class="form-control" id="apellido" placeholder="ingresa los apellido" >
 						</fieldset>
 					</div>
 				<div class="col-lg-6">
@@ -69,8 +69,14 @@
 					<div class="col-lg-12">
 						<fieldset class="form-group">
 							<label class="form-label" for="exampleInputEmail1"> numero de telefono</label>
-							<input type="text" class="form-control" id="cargo" placeholder="ingrese su numero de telefono" >
+							<input type="number" class="form-control" id="cargo" placeholder="ingrese su numero de telefono" >
 						</fieldset>
+
+						<div class="form-group">
+                        <label class="form-label" for="usu_correo">Correo Electronico</label>
+                        <input type="email" class="form-control" id="usu_correo" name="usu_correo" placeholder="test@test.com" required>
+                    </div>
+					
 					</div>
 				<div class="col-lg-6">
 				<div class="row">
@@ -78,7 +84,7 @@
 					<div class="col-lg-12">
 						<fieldset class="form-group">
 							<label class="form-label" for="exampleInputEmail1">Edad del consumidor</label>
-							<input type="text" class="form-control" id="Edad" placeholder="ingrese su edad" >
+							<input type="number" class="form-control" id="Edad" placeholder="ingrese su edad" >
 						</fieldset>
 					</div>
 				
@@ -98,5 +104,6 @@
 </html>
 <?php
   } else {
+    header("Location:".Conectar::ruta()."index.php");
   }
 ?>

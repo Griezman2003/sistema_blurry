@@ -44,6 +44,7 @@
 									<div class="gallery-hover-layout-in">
 										<center><H1 class="gallery-item-title">POSTRES</H1></center>
 										<center><p><b>BIENVENIDO<b></p></center>
+										<center><p><b>Postres de mayor calidad que podra consultar vista previa<b></p></center>
 										<div class="btn-group">
 										
 											
@@ -56,24 +57,28 @@
 
 						<div class="gallery-col">
 							<article class="gallery-item">
-								<img src="../../Public/img/.png" alt="150" height="150"> <align="left">
-								<img src="../../Public/img/.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/chocolate.png" alt="200" height="200"> <align="left">
+								<img src="../../Public/img/galleta.png" alt="300" height="200"> <align="left">
+								<img src="../../Public/img/postre.png" alt="300" height="200"> <align="left">
 								<div class="gallery-hover-layout">
 									<div class="gallery-hover-layout-in">
 										<p class="gallery-item-title"></p>
-										<center><p>please look at the prices and products of the images feel at home</p></center>
+										<center><p>postres mas recomendados por favor visualize</p></center>
 										<div class="btn-group">	
 										<div class="gallery-col">
 
 							         <article class="gallery-item">
-								<img src="../../Public/img/.png" alt="150" height="150"> <align="left">
-								<img src="../../Public/img/.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/pastel-1.png" alt="210" height="190"> <align="left">
+								<img src="../../Public/img/fresas.png" alt="200" height="200"> <align="left">
+								<img src="../../Public/img/mixto.png" alt="200" height="200"> <align="left">
 								<div class="gallery-hover-layout">
 									<div class="gallery-hover-layout-in">
 									<p class="gallery-item-title"></p>
-									<center><p>please look at the prices and products of the images feel at home</p></center>
+									<center><p>Mas desgustados con 20% de descuento</p></center>
 									<div class="btn-group">						
-								
+									<img src="../../Public/img/churros.png" alt="200" height="200"> <align="left">
+								<img src="../../Public/img/chispas.png" alt="200" height="200"> <align="left">
+								<img src="../../Public/img/lite.png" alt="200" height="200"> <align="left">
 			
 		<script src="Public/js/lib/jquery/jquery.min.js"></script>
 	<script src="Public/js/lib/tether/tether.min.js"></script>
