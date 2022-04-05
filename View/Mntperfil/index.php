@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
     <?php require_once("../MainHead/head.php");?>
-	<title>SISTEMA</>::Perfil</title>
+	<title>SISTEMA</>Perfil</title>
 </head>
 <body class="with-side-menu">
 

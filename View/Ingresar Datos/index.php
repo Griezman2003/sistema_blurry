@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <?php require_once("../MainHead/head.php");?>
-	<title>ADMINISTRAR: FORMAS DE PAGO </title>
+	<title>ADMINISTRAR: INGRESAR DATOS </title>
 </head>
 <body class="with-side-menu">
 <?php require_once("../MainHeader/header.php");?>
@@ -18,7 +18,7 @@
 				<div class="tbl">
 					<div class="tbl-row">
 						<div class="tbl-cell">
-							<h3>FORMAS DE PAGO</h3>
+							<h3>INGRESAR DATOS</h3>
 							<ol class="breadcrumb breadcrumb-simple">
 								<li><a href="#">Home</a></li>
 								<li><a href="#">agregar </a></li>

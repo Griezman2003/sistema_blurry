@@ -6,7 +6,7 @@
 <html>
     <?php require_once("../MainHead/head.php");?>
 	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/morris.js/0.5.1/morris.css">
-	<title>SISTEMA</>::Home</title>
+	<title>SISTEMA</> Home</title>
 </head>
 <body class="with-side-menu">
 
@@ -23,10 +23,11 @@
 				<div class="col-xl-12">
 					<div class="row">
 						<div class="col-sm-4">
-	                        <article class="statistic-box purple">
+	                        <article class="statistic-box yellow">
 	                            <div>
 	                                <div class="number" id="lbltotal"></div>
 	                                <div class="caption"><div>Menu comida</div></div>
+									
 	                            </div>
 	                        </article>
 	                    </div>
@@ -42,7 +43,7 @@
 	                        <article class="statistic-box green">
 	                            <div>
 	                                <div class="number" id="lbltotalcerrado"></div>
-	                                <div class="caption"><div>Forma de pago</div></div>
+	                                <div class="caption"><div>Ingresar Datos</div></div>
 	                            </div>
 	                        </article>
 	                    </div>
@@ -61,6 +62,7 @@
 			
 		</div>
 	</div>
+
 	<!-- Contenido -->
 
 	<?php require_once("../MainJs/js.php");?>

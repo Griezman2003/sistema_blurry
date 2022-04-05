@@ -14,9 +14,9 @@
                         </a>
                     </li>
                     <li class="blue-dirty">
-                        <a href="..\Formas de Pago\">
+                        <a href="..\Ingresar Datos\">
                             <span class="glyphicon glyphicon-th"></span>
-                            <span class="lbl">Formas de Pago</span>
+                            <span class="lbl">Ingresar Datos</span>
                         </a>
                        
                         </li>
