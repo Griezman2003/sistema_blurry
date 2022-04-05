@@ -4,7 +4,7 @@ class Conectar {
     protected $dbh;
     protected function Conexion (){
     try {
-        $conectar = $this->dbh = new PDO("mysql:local=localhost;dbname=sistema_ti","messi","messi");
+        $conectar = $this->dbh = new PDO("mysql:local=localhost;dbname=sistema_ti","root","");
         return $conectar;
     }catch (Exception $e){
         print "error en la base datos de tu sistema!".$e->getMessage() . "<br/>";

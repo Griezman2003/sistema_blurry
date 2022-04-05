@@ -42,7 +42,7 @@
                             <img src="../../Public/img/arbol.png"  alt="50" height="50">
 								<div class="gallery-hover-layout">
 									<div class="gallery-hover-layout-in">
-										<center><H1 class="gallery-item-title">POSTRES</H1></center>
+										<center><H1 class="gallery-item-title"> POSTRES </H1></center>
 										<center><p><b>BIENVENIDO<b></p></center>
 										<center><p><b>Postres de mayor calidad que podra consultar vista previa<b></p></center>
 										<div class="btn-group">
