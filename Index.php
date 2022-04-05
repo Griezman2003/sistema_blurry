@@ -31,8 +31,7 @@
     <link rel="stylesheet" href="Public/css/lib/bootstrap/bootstrap.min.css">
     <link rel="stylesheet" href="Public/css/main.css">
 </head>
-<body>
-
+<body style="background: url('arbol.png') no-repeat; background-size: cover;">
     <div class="page-center">
         <div class="page-center-in">
             <div class="container-fluid">

@@ -56,8 +56,8 @@
 
 						<div class="gallery-col">
 							<article class="gallery-item">
-								<img src="../../Public/img/refrescos.png" alt="150" height="150"> <align="left">
-								<img src="../../Public/img/vinos.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/refrescos.png" alt="150" height="150"> <align="left"> 
+								<img src="../../Public/img/vinos.png" alt="150" height="170"> <align="left">
 								<img src="../../Public/img/agua.png" alt="150" height="150"> <align="left">
 								<img src="../../Public/img/jugos.png" alt="150" height="150"> <align="left">
 								<div class="gallery-hover-layout">

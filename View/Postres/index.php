@@ -56,8 +56,8 @@
 
 						<div class="gallery-col">
 							<article class="gallery-item">
-								<img src="../../Public/img/ensalada.png" alt="150" height="150"> <align="left">
-								<img src="../../Public/img/kfc-5.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/.png" alt="150" height="150"> <align="left">
 								<div class="gallery-hover-layout">
 									<div class="gallery-hover-layout-in">
 										<p class="gallery-item-title"></p>
@@ -66,8 +66,8 @@
 										<div class="gallery-col">
 
 							         <article class="gallery-item">
-								<img src="../../Public/img/milanesa.png" alt="150" height="150"> <align="left">
-								<img src="../../Public/img/rollo.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/.png" alt="150" height="150"> <align="left">
+								<img src="../../Public/img/.png" alt="150" height="150"> <align="left">
 								<div class="gallery-hover-layout">
 									<div class="gallery-hover-layout-in">
 									<p class="gallery-item-title"></p>
