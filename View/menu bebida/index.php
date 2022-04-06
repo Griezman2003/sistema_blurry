@@ -12,6 +12,7 @@
 	<div class="mobile-menu-left-overlay"></div>
 	<?php require_once("../MainNav/Nav.php");?>
     <?php require_once("../menu bebida/index.php");
+
 ?>
 <body class="with-side-menu">
 	<div class="page-content">

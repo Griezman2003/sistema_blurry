@@ -12,7 +12,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>SISTEMA:: ACCESO: SISTEMA</title>
+	<title>SISTEMA BLURRY</title>
 
 	<link href="Public/img/favicon.144x144.png" rel="apple-touch-icon" type="image/png" sizes="144x144">
 	<link href="Public/img/favicon.114x114.png" rel="apple-touch-icon" type="image/png" sizes="114x114">
@@ -39,7 +39,7 @@
                     <div class="sign-avatar">
                         <img src="Public/img/comida.png" alt="">
                     </div>
-                    <header class="sign-title">Welcome </header>
+                    <header class="sign-title">BIENVENIDO </header>
                     
                     <?php
                         if (isset($_GET["m"])){

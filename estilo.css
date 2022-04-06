@@ -10,7 +10,7 @@
 header{
     
     height: 100px;
-    background: #4D4D5C;
+    background: #d6d6dd;
     padding: 0 50px;
     color: #fff;
     display: flex;
@@ -19,12 +19,12 @@ header{
 }
  .logo{
      text-transform: uppercase;
-     color: #6cc091;
+     color: #0d0e0d;
      font-weight: 200;
    
  }
  .menu a{
-     color: #fff;
+     color: rgb(#0d0e0d);
      text-transform: uppercase;
      text-decoration: none;
      padding: 0 10px;
@@ -47,7 +47,7 @@ header{
   .menu a:hover,
   .mostrar-menu:hover,
   .esconder-menu:hover{
-    color:#6cc091;
+    color:#151816;
   }
 
   #check{
@@ -90,7 +90,7 @@ header{
     .boton-empezar{
         text-decoration: none;
         color: #fff;
-        border: 1px solid #6cc091;
+        border: 1px solid #161716;
         padding: 20px 40px;
         align-self: baseline;
         transition: all 0.4s;
@@ -134,15 +134,15 @@ header{
     .boton-saber-mas{
         display: inline-block;
         text-decoration: none;
-        color: #6cc091;
+        color: #faf3f3;
         padding: 10px 30px;
-        border: 3px solid #6cc091;
+        border: 3px solid #000000;
         border-radius: 30px;
         margin-top: 15px;
         transition: all 0.4s;
     }
     .boton-saber-mas:hover{
-        background: #6cc091;
+        background: #506677;
         color: #fff;
     }
 
