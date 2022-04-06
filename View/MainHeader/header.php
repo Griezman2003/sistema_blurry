@@ -33,9 +33,6 @@
                 <div class="mobile-menu-right-overlay"></div>
 
                 <input type="hidden" id="user_id" value="<?php echo $_SESSION["usu_id"] ?>"><!--ID del Usuario-->
-                
-
-
                 <div class="dropdown dropdown-typical">
                     <a href="#" class="dropdown-toggle no-arr">
                         <span class="font-icon font-icon-user"></span>

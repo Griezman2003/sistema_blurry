@@ -96,9 +96,9 @@
 				target: $('.gallery-item .gallery-picture')
 			});
 		});
-	<?php require_once("../MainJs/js.php");?>
 	</script>
 	<script src="Public/js/app.js"></script>
+	<?php require_once("../MainJs/js.php");?>
 </body>
 </html>
 <?php

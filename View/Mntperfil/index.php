@@ -68,6 +68,6 @@
 </html>
 <?php
   } else {
-    header("Location:".Conectar::ruta()."index.php");
+    header("Location:".Conectar::ruta()."LOG.php");
   }
 ?>

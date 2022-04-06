@@ -3,7 +3,7 @@
                     <li class="blue-dirty">
                         <a href="..\Home\">
                             <span class="glyphicon glyphicon-th"></span>
-                            <span class="lbl">Inicio</span>
+                            <span class="lbl">inicio</span>
                         </a>
                     </li>
 
@@ -33,6 +33,7 @@
                             <span class="glyphicon glyphicon-th"></span>
                             <span class="lbl">Menu Comida</span>
                         </a>
+
                     </li>
                 </ul>
             </nav>
