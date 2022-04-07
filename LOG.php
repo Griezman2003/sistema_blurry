@@ -31,13 +31,13 @@
     <link rel="stylesheet" href="Public/css/lib/bootstrap/bootstrap.min.css">
     <link rel="stylesheet" href="Public/css/main.css">
 </head>
-<body style="background: url('arbol.png') no-repeat; background-size: cover;">
+
     <div class="page-center">
         <div class="page-center-in">
             <div class="container-fluid">
                 <form class="sign-box" action="" method="post" id="login_form">
                     <div class="sign-avatar">
-                        <img src="Public/img/comida.png" alt="">
+                        <img src="img/ultra.gif" alt="">
                     </div>
                     <header class="sign-title">BIENVENIDO </header>
                     
